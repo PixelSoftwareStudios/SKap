@@ -1,0 +1,10 @@
+#recordingStart {
+	background-color: transparent;
+	height: 50px;
+    width: 50px;
+	display: block;
+	margin: auto;
+    border-radius: 50px;
+    border: 1px solid #000;
+	background-image: url("./images/record-button.png");
+}
