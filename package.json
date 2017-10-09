@@ -1,0 +1,19 @@
+{
+  "name": "skap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pixel",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "domify": "^1.4.0",
+    "electron": "^1.7.6",
+    "electron-debug": "^1.4.0",
+    "line-by-line": "^0.1.5",
+    "menubar": "^5.2.3",
+    "moment": "^2.18.1"
+  }
+}
